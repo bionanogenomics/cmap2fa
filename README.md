@@ -19,10 +19,3 @@ For hybrid scaffold, however, this should not be an issue as the generated FASTA
 
 ### License
 We offer this tool for open source use under the [MIT Software License](https://opensource.org/licenses/MIT). 
-
-### Temporary Home
-We have been coordinating with the JBrowse team.  They are in the process of creating a plugin registry.  Once that feature has been completed this plugin will be registered and hosted there.  In the interest of making this available as soon as possible we are temporarily hosting this tool here.   It might be a few months till the registry is completed.  
-
-### Help Topics
-* [BioNano Genomics JBrowse Plugin Installation](https://github.com/bionanogenomics/JBrowsePlugin/wiki/BioNano-Genomics-Plugin-Installation)
-* [Using the BioNano Genomics JBrowse Plugin](https://github.com/bionanogenomics/JBrowsePlugin/wiki/Using-the-BioNano-Genomics-JBrowse-Plugin)
