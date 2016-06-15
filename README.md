@@ -3,7 +3,7 @@
 ### Overview 
 cmap2fa.pl is a tool for converting a BioNano multi-color CMAP file of nicking enzyme label positions to an NGS FASTA file of nucleotides sequences. The tool translates each label position to an enzyme-specific sequence (as in its forward strand format), and fills every interval of two labels with “N”s.   
 
-##Usage
+###Usage
 perl cmap2fa.pl [options] <Args>
 
 Options:
